@@ -1,15 +1,22 @@
+<strong>
+Hi I'm Aleksandr
+</strong>
+
+<div id="header" align="flex-start">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 ### My technology stack 👋
 
-**Oleruzh/Oleruzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges">
+  <img src="https://img.shields.io/badge/HTML-blue?style=for-the-badge&logo=logoColor=white" alt="Badge"/>
+  <img src="https://img.shields.io/badge/SCSS-red?style=for-the-badge&logo=logoColor=white" alt="Badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=logoColor=white" alt="Badge"/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Basic knowledge:
+<div id="knowledge">
+  <img src="https://img.shields.io/badge/jQuery-navy?style=for-the-badge&logo=logoColor=white" alt="Badge"/>
+  <img src="https://img.shields.io/badge/php-grey?style=for-the-badge&logo=logoColor=white" alt="Badge"/>
+  <img src="https://img.shields.io/badge/WordPress-black?style=for-the-badge&logo=logoColor=white" alt="Badge"/>
+</div>
