@@ -17,6 +17,5 @@ Hi I'm Aleksandr
 ### Basic knowledge:
 <div id="knowledge">
   <img src="https://img.shields.io/badge/jQuery-navy?style=for-the-badge&logo=logoColor=white" alt="Badge"/>
-  <img src="https://img.shields.io/badge/php-grey?style=for-the-badge&logo=logoColor=white" alt="Badge"/>
   <img src="https://img.shields.io/badge/WordPress-black?style=for-the-badge&logo=logoColor=white" alt="Badge"/>
 </div>
